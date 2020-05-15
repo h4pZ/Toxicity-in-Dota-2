@@ -7,10 +7,10 @@ Dota 2 is toxic af
 Hypothesis: early and late game in dota 2 are more toxic than mid game
 
 To run the project please download and extract the data set https://www.kaggle.com/romovpa/gosuai-dota-2-game-chats
-in the folder data (if it doesn't exist create it `mkdir data`).
+in the folder data (if it doesn't exist create it `mkdir data`). Then create a folder for the models `mkdir models`.
+Finally run:
 
 ```bash
-mkdir models
 sh run.sh
 ```
 
