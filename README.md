@@ -13,6 +13,15 @@ Finally run:
 ```bash
 sh run.sh
 ```
+# Important
+You'll also need a file called `token.json` in `./src` which should contain your API key for the perspectiveAPI.
+To get information on how to obtain it go to https://github.com/conversationai/perspectiveapi/tree/master/1-get-started
+
+Format of `token.json`:
+
+```
+{"token": "your_token_here"}
+```
 
 # TODO
 
